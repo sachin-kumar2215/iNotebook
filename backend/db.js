@@ -1,3 +1,4 @@
+require('dotenv').config()
 const mongoose = require('mongoose');
 const mongoURI = "mongodb+srv://root:root@cluster0.mzkopgz.mongodb.net";
 
